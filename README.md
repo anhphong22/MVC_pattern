@@ -1,1 +1,1 @@
-# cdms
+# Model, View, Controller Pattern
